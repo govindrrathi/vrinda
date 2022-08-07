@@ -30,3 +30,9 @@ a {
   padding-bottom: 100px;
   position: relative;
 }
+
+.section-narrow {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  position: relative;
+}
