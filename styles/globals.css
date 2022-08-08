@@ -25,6 +25,14 @@ a {
   }
 }
 
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3 {
+  font-family: 'Dancing Script', cursive;
+}
+
 .section {
   padding-top: 100px;
   padding-bottom: 100px;

@@ -8,7 +8,7 @@ const Contact = () => {
         <Row>
           <Col md={12}>
               <div className="mb-4">
-                <p className="text-center text-muted mt-4 mb-2">vrinda.rathi@email.com</p>
+                <p className="text-center text-muted mt-4 mb-2">vrinda.rathi@gmail.com</p>
                 <h6 className="text-center text-muted font-weight-normal">(425)-492-5925</h6>
               </div>
               <div className="mb-4">
