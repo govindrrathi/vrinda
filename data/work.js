@@ -39,11 +39,44 @@ export const workData = [
 			desc : "My fifth Madhubani project was this mandala, which loosely translates to “circle” in Sanskrit. In Hindu and Buddhist cultures, these geometric patterns are used as tools for meditation and they represent the universe. This specific mandala shows the different forms of life on our planet, ranging from the swimming fish to the flying birds to the plants on the ground. I used all three of the secondary colors because they complemented each other and provided a range of colors for me to work with.",
 			link : "/"
 		},
-    {
+		{
 			id : 6,
-			img : "./images/fish.jpg",
-			title : "Fish",
-			desc : "",
+			img : "./images/lady.jpg",
+			title : "Lady",
+			year: 2016,
+			desc : "This painting of a lady was my sixth overall project and my very first project on canvas. I learned how to draw humans for the first time and chose to draw a lady collecting water from a lake, carrying her pot on her head. I continued to practice patterns and color combinations while learning how to design clothing so it looked bright and attractive.",
+			link : "/"
+		},
+		{
+			id : 7,
+			img : "./images/radha_krishna.jpg",
+			title : "Radha Krishna",
+			year: 2017,
+			desc : "In this painting, I have portrayed Radha and Krishna, who are one of the most famous couples in Hinduism because of their “divine love”. This piece shows their wedding, with Krishna holding his famous flute and Radha placing a garland around his neck. In the background, I added peacocks because they are associated with Krishna and his peacock feather that he wears on his head.",
+			link : "/"
+		},
+		{
+			id : 8,
+			img : "./images/ganesha.jpg",
+			title : "Ganesha",
+			year: 2017,
+			desc : "My eighth project was this painting of Lord Ganesha playing the tabla. Ganesha has the head of an elephant and is known as the ‘remover of obstacles’ and ‘lord of beginnings’, so we pray to him for prosperity and fortune. To create this piece, I found an image of a statue of Ganesha and then converted it to a 2-dimensional painting so I could create it on a canvas.",
+			link : "/"
+		},
+		{
+			id : 9,
+			img : "./images/village.jpg",
+			title : "Village",
+			year: 2017,
+			desc : "This project shows a typical village scene where three women are shown cooking. To make the painting as realistic as possible, I showed all the women using traditional methods of cooking and added a well in the background. Throughout this painting, I continued to practice drawing humans and learned some new techniques used in the tree and background.",
+			link : "/"
+		},
+		{
+			id : 10,
+			img : "./images/buddha.jpg",
+			title : "Buddha",
+			year: 2018,
+			desc : "My painting shows Buddha meditating under a tree. It is said that Buddha was enlightened while meditating under the Bodhi Tree, so I chose to depict him under this tree. According to Buddhism, which was founded by Buddha, there are 7 main chakras that work together to create balance and peace in your body. These chakras are shown near their associated body parts in my painting. ",
 			link : "/"
 		}
   ];
