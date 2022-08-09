@@ -1,15 +1,15 @@
 import Layout from "../components/layout";
 import Header from "../components/header";
-import Work from "../components/work"
+import Contact from "../components/contact"
 import Footer from "../components/footer";
 
-const ArtWorkPage = () => {
+const ContactPage = () => {
   return (
-    <Layout pageTitle="Vrinda's Space - Art">
+    <Layout pageTitle="Vrinda's Space">
       <Header />
-       <Work />
+       <Contact />
        <Footer />
     </Layout>
   )
 }
-export default ArtWorkPage;
+export default ContactPage;

@@ -42,7 +42,7 @@ const Header = () => {
                 <NavLink href="/work">My Work</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="#contact">Contact</NavLink>
+                <NavLink href="/contact">Contact</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
