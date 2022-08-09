@@ -33,7 +33,6 @@ const WorkBox = () => {
             </div>
             <h5 className="text-dark font-weight-normal mb-3 pt-3">{work.title} ({work.year})</h5>
             <p className="text-muted mb-3 f-15">{work.desc}</p>
-            <a href={work.link} className="f-16 text-warning">Read More <span className="right-icon ml-2">&#8594;</span></a>
           </div>
         </Col>
         <Col md={{size:5, offset:1}} className="mt-5 mt-sm-0">
