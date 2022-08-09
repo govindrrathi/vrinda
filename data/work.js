@@ -76,7 +76,47 @@ export const workData = [
 			img : "./images/buddha.jpg",
 			title : "Buddha",
 			year: 2018,
-			desc : "My painting shows Buddha meditating under a tree. It is said that Buddha was enlightened while meditating under the Bodhi Tree, so I chose to depict him under this tree. According to Buddhism, which was founded by Buddha, there are 7 main chakras that work together to create balance and peace in your body. These chakras are shown near their associated body parts in my painting. ",
+			desc : "My painting shows Buddha meditating under a tree. It is said that Buddha was enlightened while meditating under the Bodhi Tree, so I chose to depict him under this tree. According to Buddhism, which was founded by Buddha, there are 7 main chakras that work together to create balance and peace in your body. These chakras are shown near their associated body parts in my painting.",
+			link : "/"
+		},
+    {
+			id : 11,
+			img : "./images/centaur.jpg",
+			title : "Centaur",
+			year: 2018,
+			desc : "This painting shows a centaur, which has the upper body of a human and the lower body of a horse. Originating from Greek mythology, these creatures are known for being wild and violent, so the centaur is shown holding a trident. I made the background relatively calm and peaceful to contrast and highlight the ferocity of the centaur.",
+			link : "/"
+		},
+    {
+			id : 12,
+			img : "./images/dasavatar.jpg",
+			title : "Dasavatar",
+			year: 2019,
+			desc : "My 12th painting was this piece that shows the Dasavatar. Dasavatar is the name for the 10 avatars of Lord Vishnu, who is the preserver of the universe. In order, these avatars are Matsya, Kurma, Varaha, Narsimha, Vamana, Parshuram, Ram, Balaram, Krishna, and Kalki. The first 9 have descended upon Earth at some time, but the tenth one is yet to come and will descend at the end of our current era, Kali Yug, to defeat evil. In the background, I have scripted a prayer to Lord Vishnu.",
+			link : "/"
+		},
+    {
+			id : 13,
+			img : "./images/tiger.jpg",
+			title : "Tiger",
+			year: 2019,
+			desc : "This is my Wild Tiger painting, which shows a tiger sitting on a rock with a lush, green forest in the background. Tigers have been prominent in Hindu mythological stories, representing royalty and strength. Some new techniques I learned for this painting are the wood grains and the green and yellow dabbing in the background.",
+			link : "/"
+		},
+    {
+      id : 14,
+      img : "./images/hanuman.jpg",
+      title : "Hanuman",
+      year: 2019,
+      desc : "My 14th painting shows a scene from Ramayana, an ancient Hindu scripture, where Hanuman is kneeling on the ground and tearing open his chest. After the big war, Ram & Sita decided to reward everyone who helped them win. Sita gave Hanuman her priceless pearl necklace, but he began to break the pearls. When Ram asked him why he did that, Hanuman said that he does not wear anything that doesn’t have Ram’s name. Ram’s brother, Lakshman, laughed and asked him why he keeps his body alive then, because his body can’t have Ram’s name. Hanuman then tore open his chest to show that even his body had Ram in it and from that day on, no one ever doubted his loyalty and he is known as one of Lord Rama’s biggest devotees.",
+      link : "/"
+    },
+    {
+			id : 15,
+			img : "./images/kohbar.jpg",
+			title : "Kohbar",
+			year: 2020,
+			desc : "Here is my 15th and final painting in my Madhubani course. This large piece is called a Kohbar and is usually given as an auspicious wedding gift to newlywed couples. Throughout the canvas, there are many symbols and animals that all revolve around themes of love and prosperity to bless the couple. I used nearly every skill I learned in my Madhubani journey, and ended up with this detailed final project.",
 			link : "/"
 		}
   ];
