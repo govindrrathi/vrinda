@@ -10,8 +10,6 @@ const Index = () => {
     <Layout pageTitle="Vrinda's Space">
       <Header />
        <Hero />
-       <Work />
-       <Contact />
        <Footer />
     </Layout>
   )

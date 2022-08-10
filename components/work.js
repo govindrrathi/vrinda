@@ -1,8 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from "reactstrap";
-import { workData } from "../data/work";
 
-const WorkBox = () => {
+const WorkBox = ({workData}) => {
   return (
     <>
     {
@@ -46,8 +45,7 @@ const WorkBox = () => {
     </>
   );
 }
-const Work = () => {
-
+const Work = ({workData}) => {
 return (
     <section className="section" id="work">
       <Container>
@@ -59,7 +57,7 @@ return (
             </div>
           </Col>
         </Row>
-        <WorkBox />
+        <WorkBox workData={ workData.allWorkData }/>
       </Container>
     </section>
   );
