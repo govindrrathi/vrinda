@@ -25,7 +25,7 @@ const Layout = (props) => {
       <div>
         {props.children}
       </div>
-</div>
+    </div>
   )
 }
 export default Layout;
