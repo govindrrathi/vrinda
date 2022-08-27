@@ -33,6 +33,14 @@ h1,h2,h3 {
   font-family: 'Dancing Script', cursive;
 }
 
+.navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-size: 3rem;
+}
+.landing-page {
+  z-index: 0;
+}
+
 .section {
   padding-top: 100px;
   padding-bottom: 100px;

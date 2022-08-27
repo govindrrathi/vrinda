@@ -11,6 +11,7 @@ import {
   Input,
   Label
 } from 'reactstrap';
+import { SocialIcon } from 'react-social-icons';
 
 const Contact = () => {
 
@@ -72,6 +73,13 @@ const Contact = () => {
           </Col>
         </Row>
       </form>
+        <Row>
+          <Col md={12}>
+          <div>
+            <SocialIcon url="https://twitter.com/jaketrent" />
+          </div>
+          </Col>
+        </Row>
         <Row>
           <Col md={12}>
               <div className="mb-4">
