@@ -12,6 +12,7 @@ import {
   Label
 } from 'reactstrap';
 import { SocialIcon } from 'react-social-icons';
+import { FaEnvelope, FaPhone } from 'react-icons/fa';
 
 const Contact = () => {
 
@@ -74,22 +75,17 @@ const Contact = () => {
         </Row>
       </form>
         <Row>
-          <Col md={12}>
-          <div>
-            <SocialIcon url="https://twitter.com/jaketrent" />
-          </div>
+          <Col md={6}>
+            <div className="mb-4">
+              <div className="text-center text-warning"><h3><FaEnvelope /></h3></div>
+              <p className="text-center text-dark font-weight-normal">vrinda.rathi@gmail.com</p>
+            </div>
           </Col>
-        </Row>
-        <Row>
-          <Col md={12}>
-              <div className="mb-4">
-                <p className="text-center text-muted mt-4 mb-2">vrinda.rathi@gmail.com</p>
-                <h6 className="text-center text-muted font-weight-normal">(425)-492-5925</h6>
-              </div>
-              <div className="mb-4">
-                <p className="text-center text-muted mt-4 mb-2">Social Network</p>
-                <h6 className="text-center text-muted font-weight-normal">TBD</h6>
-              </div>
+          <Col md={4}>
+            <div className="mb-4">
+              <div className="text-center text-warning"><h3><FaPhone /></h3></div>
+              <p className="text-center text-dark font-weight-normal">(425)-492-5925</p>
+            </div>
           </Col>
         </Row>
       </Container>

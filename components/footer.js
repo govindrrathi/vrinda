@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
       <Row className="mt-5">
           <Col md={12}>
-            <div className="text-center text-muted">
+            <div className="text-center text-dark">
               <p className="mb-0 f-15">2022 © Vrinda Rathi</p>
             </div>
           </Col>

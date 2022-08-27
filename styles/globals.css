@@ -37,12 +37,17 @@ h1,h2,h3 {
   font-family: 'Dancing Script', cursive;
   font-size: 3rem;
 }
+
+.nav-link {
+  color: #212529;
+}
+
 .landing-page {
   z-index: 0;
 }
 
 .section {
-  padding-top: 100px;
+  padding-top: 20px;
   padding-bottom: 100px;
   position: relative;
 }

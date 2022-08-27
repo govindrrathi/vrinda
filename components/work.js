@@ -19,7 +19,7 @@ const WorkBox = ({workData}) => {
                   <i className={work.icon}></i>
                 </div>
                 <h5 className="text-dark font-weight-normal mb-3 pt-3">{work.title} ({work.year})</h5>
-                <p className="text-muted mb-3 f-15">{work.desc}</p>
+                <p className="text-dark mb-3 f-15">{work.desc}</p>
               </div>
             </Col>
         </Row>
@@ -31,7 +31,7 @@ const WorkBox = ({workData}) => {
               <i className="mdi mdi-account-group"></i>
             </div>
             <h5 className="text-dark font-weight-normal mb-3 pt-3">{work.title} ({work.year})</h5>
-            <p className="text-muted mb-3 f-15">{work.desc}</p>
+            <p className="text-dark mb-3 f-15">{work.desc}</p>
           </div>
         </Col>
         <Col md={{size:5, offset:1}} className="mt-5 mt-sm-0">
@@ -53,7 +53,7 @@ return (
           <Col lg={6} md={8}>
             <div className="title text-center mb-5">
               <h3 className="font-weight-normal text-dark"><span className="text-warning">My Work</span></h3>
-              <p className="text-muted">Below is some of my work......</p>
+              <p className="text-dark">Below is some of my work......</p>
             </div>
           </Col>
         </Row>
